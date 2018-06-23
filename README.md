@@ -1,5 +1,5 @@
 # Hospital-Management-System
-A simple information management system for small hospital (short project). also
+A simple information management system for small hospital (short project).
 
 * Developed using Java.
 * Built three important roles like Admin, Doctor and Receptionist.
